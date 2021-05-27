@@ -1,0 +1,2 @@
+# ManagmentSyastem
+a semester project
